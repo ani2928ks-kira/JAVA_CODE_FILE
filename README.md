@@ -1,3 +1,8 @@
+Program1_A output:
+
+
+
+
 PROGRAM1_B output:
 
 https://github.com/ani2928ks-kira/JAVA_CODE_FILE/blob/main/p1_prg1.png
