@@ -2,7 +2,7 @@ Program1_A output:
 
 ListInterfaceDemo : https://github.com/ani2928ks-kira/JAVA_CODE_FILE/blob/main/PROGRAM1_A.png
 
-Program1_B output:
+PROGRAM1_B output:
 
 p1 : https://github.com/ani2928ks-kira/JAVA_CODE_FILE/blob/main/p1_prg1.png
 
@@ -24,11 +24,12 @@ p9 : https://github.com/ani2928ks-kira/JAVA_CODE_FILE/blob/main/p9_prg1.png
 
 p10 : https://github.com/ani2928ks-kira/JAVA_CODE_FILE/blob/main/p10_prg1.png
 
-Program2_B output:
+Program1_A output:
 
 MapInterfaceDemo : https://github.com/ani2928ks-kira/JAVA_CODE_FILE/blob/main/program2_A.png
 
-Program2_B output:
+
+Project2_B output:
 
 p1 : https://github.com/ani2928ks-kira/JAVA_CODE_FILE/blob/main/p1_prg2.png
 
