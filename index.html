@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Session Management - Login</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        min-height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .container {
+        background: white;
+        border-radius: 15px;
+        box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+        padding: 40px;
+        width: 400px;
+        text-align: center;
+    }
+    h2 {
+        color: #333;
+        margin-bottom: 30px;
+    }
+    input[type="text"] {
+        width: 80%;
+        padding: 12px;
+        margin: 15px 0;
+        border: 2px solid #ddd;
+        border-radius: 8px;
+        font-size: 16px;
+        transition: border-color 0.3s;
+    }
+    input[type="text"]:focus {
+        border-color: #667eea;
+        outline: none;
+    }
+    input[type="submit"] {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        padding: 12px 30px;
+        border: none;
+        border-radius: 8px;
+        font-size: 16px;
+        cursor: pointer;
+        transition: transform 0.3s;
+    }
+    input[type="submit"]:hover {
+        transform: translateY(-2px);
+    }
+    .info {
+        margin-top: 20px;
+        padding: 15px;
+        background-color: #e7f3ff;
+        border-left: 4px solid #2196F3;
+        font-size: 14px;
+        text-align: left;
+    }
+</style>
+</head>
+<body>
+<div class="container">
+    <h2>🔐 Session Management Demo</h2>
+    <form action="welcome.jsp" method="post">
+        <label>Please Enter your name:</label><br>
+        <input type="text" name="uname" placeholder="Enter your name" required>
+        <br>
+        <input type="submit" value="Start the session">
+    </form>
+    <div class="info">
+        <strong>📌 Session Information:</strong><br>
+        • Session timeout is set to 1 minute<br>
+        • Your name will be stored in session<br>
+        • After 1 minute of inactivity, session will expire
+    </div>
+</div>
+</body>
+</html>
