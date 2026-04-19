@@ -1,5 +1,5 @@
 Program1_A output:
-
+https://github.com/ani2928ks-kira/JAVA_CODE_FILE/blob/main/PROGRAM1_A.png
 
 
 
@@ -24,4 +24,13 @@ https://github.com/ani2928ks-kira/JAVA_CODE_FILE/blob/main/p8_prg1.png
 https://github.com/ani2928ks-kira/JAVA_CODE_FILE/blob/main/p9_prg1.png
 
 https://github.com/ani2928ks-kira/JAVA_CODE_FILE/blob/main/p10_prg1.png
+
+Program2_A output:
+
+
+
+Project2_B output:
+
+
+
 
